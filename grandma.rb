@@ -21,4 +21,4 @@ end
 
 
 
-speak_to_grandma(phase.upcase)
+speak_to_grandma(phrase.upcase)
