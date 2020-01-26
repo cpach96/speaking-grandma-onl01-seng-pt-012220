@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
 end
 
 if phrase == "I LOVE YOU GRANDMA!"
-  return "I "
+  return "I LOVE YOU TOO PUMPKIN!"
 
 
 speak_to_grandma()
