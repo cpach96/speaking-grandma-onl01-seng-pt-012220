@@ -10,4 +10,10 @@
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
+# 'I LOVE YOU TOO PUMPKIN!
+
+phrase = "HUH?1 SPEAK UP, SONNY!"
+
+def speak_to_grandma(phrase)
+  
+end
