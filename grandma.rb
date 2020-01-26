@@ -12,8 +12,13 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!
 
-phrase = "HUH?1 SPEAK UP, SONNY!"
+phrase = "HUH?! SPEAK UP, SONNY!"
 
 def speak_to_grandma(phrase)
   
 end
+
+
+
+
+speak_to_grandma(phase.upcase)
